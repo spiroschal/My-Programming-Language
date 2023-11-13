@@ -1,2 +1,2 @@
 # My-Programming-Language
-Τhis project was done for the purpose of the university course "Compilers"
+Introducing CutePy, our own programming language! We built it from the ground up, creating tools like a Lexical Analyzer and Syntax Analyzer. We then crafted an Intermediate Code and a handy Symbol Table. Finally, we translated it into assembly code and ran it on a RISC-V processor using the MARS program. The language is made in a way that can compile any program written in Python and get the same results. It's a cool project that combines language design and practical coding, showcasing the magic of making our own programming language run on a processor.
